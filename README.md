@@ -8,8 +8,6 @@ El objetivo de estos protocolos es estandarizar los procedimientos operativos, g
 
 Actualmente, el catálogo de protocolos cuenta con los siguientes procedimientos oficiales:
 
-1. Protocolo staticPackages: Protocolo especializado en el empaquetamiento y estructuración de la información estática destinada a ser integrada en el espacio de datos.
-
 ## Detalle de los Protocolos
 
 ### 1. Protocolo `staticPackages` (Empaquetamiento de Información Estática)
