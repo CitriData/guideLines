@@ -12,8 +12,4 @@ Actualmente, el catálogo de protocolos cuenta con los siguientes procedimientos
 
 ### 1. Protocolo `staticPackages` (Empaquetamiento de Información Estática)
 
-Este protocolo define las directrices obligatorias para la recopilación, estructuración, metadado y compresión de todos los conjuntos de datos de naturaleza estática antes de su publicación o inclusión formal en el espacio de datos.
-
-#### **Objetivo**
-
-Asegurar que los datos históricos, de referencia o de actualización no frecuente (estáticos) se almacenen y transfieran bajo un formato unificado, facilitando su posterior consumo y descubrimiento por parte de los participantes autorizados.
+Este protocolo define las directrices obligatorias para la recopilación, estructuración, metadado y compresión de todos los conjuntos de datos de naturaleza estática antes de su publicación o inclusión formal en el espacio de datos. Asegurar que los datos históricos, de referencia o de actualización no frecuente (estáticos) se almacenen y transfieran bajo un formato unificado, facilitando su posterior consumo y descubrimiento por parte de los participantes autorizados.
