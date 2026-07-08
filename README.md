@@ -4,13 +4,13 @@ Este repositorio centraliza y documenta los **Protocolos de Actuación** técnic
 
 El objetivo de estos protocolos es estandarizar los procedimientos operativos, garantizando que el ciclo de vida de los datos cumpla con los estándares de interoperabilidad, seguridad y calidad requeridos.
 
-## Índice de Protocolos de Actuación
-
-Actualmente, el catálogo de protocolos cuenta con los siguientes procedimientos oficiales:
-
 ## Tools
 
 En el directorio "tools" incluiremos herramientas para el desarrollo de los paquetes del DS.
+
+## Índice de Protocolos de Actuación
+
+Actualmente, el catálogo de protocolos cuenta con los siguientes procedimientos oficiales:
 
 ### 1. Protocolo `staticPackages` (Empaquetamiento de Información Estática)
 
