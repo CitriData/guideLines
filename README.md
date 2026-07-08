@@ -8,7 +8,9 @@ El objetivo de estos protocolos es estandarizar los procedimientos operativos, g
 
 Actualmente, el catálogo de protocolos cuenta con los siguientes procedimientos oficiales:
 
-## Detalle de los Protocolos
+## Tools
+
+En el directorio "tools" incluiremos herramientas para el desarrollo de los paquetes del DS.
 
 ### 1. Protocolo `staticPackages` (Empaquetamiento de Información Estática)
 
