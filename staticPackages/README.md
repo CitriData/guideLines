@@ -8,7 +8,7 @@ El protocolo se divide en tres pasos secuenciales:
 
 ## Paso 1 · Smart Data Model (SDM)
 
-Se crea el modelo de datos normalizado siguiendo el estándar [Smart Data Models](https://github.com/smart-data-models/dataModel.Agrifood). El punto de partida es la herramienta [Calculadora SDM](https://smartservice.es/SDM/), que genera el `schema.json` a partir del esquema de la plataforma.
+Se crea el modelo de datos normalizado siguiendo el estándar [Smart Data Models](https://github.com/smart-data-models/dataModel.Agrifood). El punto de partida es la herramienta [Calculadora SDM](https://smartservice.es/SDM/), que genera el `schema.json` a partir del esquema de la plataforma analítica.
 
 **Estructura mínima del SDM:**
 ```
