@@ -2,8 +2,9 @@
 
 El siguiente paso es crear el paquete de datos a ofertar, para ello necesitamos:
 - **schema.json** generado para el SDM
-- script _generar_parquet.py_.
-- script _generar_metadata.py_.
+- Cuaderno de jupyter [parque_metadata.ipynb](https://github.com/CitriData/guideLines/blob/main/tools/parquet_metadata.ipynb)
+	- script _generar_parquet.py_.
+	- script _generar_metadata.py_.
 El paquete de datos se presentará con la siguiente estructura de carpetas:
 ```text
 ../nombrePaquete/

@@ -6,6 +6,7 @@ La idea es seguir el estándar de los **Smart Data Model**, creando un paquete d
 	|
 	|- examples/
 	|    |-README.md
+	|    |-example-keyvalues.json
 	|
 	|- doc/
 	|    |-README.md
@@ -13,14 +14,19 @@ La idea es seguir el estándar de los **Smart Data Model**, creando un paquete d
 	|- schema.json
 	|- notes.yaml
 	|- ADOPTERS.yaml
+	|- context.jsonld
 ```
 Nuestros SDM se subirán en el siguiente [enlace](https://github.com/CitriData/dataModel.Agrifood). 
 ## Explicación estructura.
+
 - **examples**: Carpeta dónde se subirá ejemplos livianos del paquete de datos ofertados. Irá acompañada de un _README.md_ dónde se explicarán brevemente los datos ofertados, formato en que se presenta, tipos de datos, descripción, mención a fuente de datos original...
+  - **example-keyvalue.json** : Ejemplo de un registro de los datos en formato json.
 - **doc**: Carpeta dónde se pondrá toda la documentación y especificaciones de los datos, así como su licencia de uso. Lo ideal es presentar esta información en formato .md y en distintos idiomas.
+  - **README.md**: documento que recoge de forma resumina toda la información respecto el paquete de datos. Debe seguir el estandar [SDM](https://github.com/smart-data-models/dataModel.Agrifood/blob/master/AgriCrop/doc/spec_ES.md#agricrop-ngsi-ld-key-values-ejemplo)
 - **schema.json**: Esquema normalizado de los datos, donde se hará referencia al SDM publicado, metadatos relativos al espacio de datos y al proveedor, descripción del dataset y para cada uno de los campos su _tipo_, _descripción_ y enlace al modelo de ese tipo, se usará el estándar de [schema.org](https://schema.org/).
 - **notes.yaml**: Notas pertinentes que necesite el consumidor de los datos.
 - **ADOPTERS.yaml**: Lista descriptiva de los distintos consumidores del modelo de datos.
+- **context.jsonld**: Json con los enlaces a schema.org describiendo los tipos de cada variable.
 
 ## Metodología
 Lo primero será crear el archivo **schema.json** a partir del esquema de datos de la plataforma (_Catalogo de datos_) para ello se usará la siguiente herramienta: [Calculadora SDM](https://smartservice.es/SDM/).
