@@ -29,7 +29,7 @@ Nuestros SDM se subirán en el siguiente [enlace](https://github.com/CitriData/d
 - **context.jsonld**: Json con los enlaces a schema.org describiendo los tipos de cada variable.
 
 ## Metodología
-Lo primero será crear el archivo **schema.json** a partir del esquema de datos de la plataforma (_Catalogo de datos_) para ello se usará la siguiente herramienta: [Calculadora SDM](https://smartservice.es/SDM/) o [Calculadora SDM Demostrador].
+Lo primero será crear el archivo **schema.json** a partir del esquema de datos de la plataforma (_Catalogo de datos_) para ello se usará la siguiente herramienta: [Calculadora SDM](https://smartservice.es/SDM/) o [Calculadora SDM Demostrador](portal.dsagro.uco.es/usescases/SDM/index.html).
 1. Cargar _esquema.json_ de la plataforma en la herramienta y rellenar los campos pertinentes.
 2. Comprobar:
 	1. **$id**:  debe ser el enlace a la carpeta del SDM de nuestro GitHub.
