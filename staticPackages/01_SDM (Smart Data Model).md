@@ -1,6 +1,6 @@
 > 06/06/2026
 
-La idea es seguir el estándar de los **Smart Data Model**, creando un paquete de información sobre los datos ofertados. La estructura que deben llevar los SDM es la siguiente [Enlace SDM](https://github.com/smart-data-models/dataModel.Agrifood/tree/master). Aunque se construirá inicialmente con la siguiente estructura mínima aceptable:
+La idea es seguir el estándar de los **Smart Data Model**, creando un paquete de información sobre los datos ofertados. La estructura que deben llevar los SDM es la siguiente [Enlace SDM](https://github.com/smart-data-models/dataModel.Agrifood/tree/master). Aunque se construirá inicialmente con la siguiente estructura mínima viable:
 ```text
 ../nombrePaquete/
 	|
