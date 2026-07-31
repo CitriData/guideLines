@@ -15,8 +15,13 @@ guideLines/
 │   └── 03_CKAN (Laboratorio de datos).md
 │
 └── tools/                   # Scripts y herramientas de apoyo
-    ├── README.md
-    └── parquet_metadata.ipynb
+|   ├── README.md
+|   └── parquet_metadata.ipynb
+|
+├── TechnicalCards           @ Technical Cards
+|   ├── SDM
+|   ├── Claude
+|
 ```
 
 ## Tools
