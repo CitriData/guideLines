@@ -24,6 +24,10 @@ guideLines/
 |
 ```
 
+## Technical Cards
+
+Condensar contenido disperso o extenso en un resumen visual de una página, fácil de consultar, imprimir o compartir — ya sea una infografía, un documento técnico largo (como el del SDM) o una guía de varios pasos. En resumen: son un formato estándar de "una idea, un vistazo" para tu propio archivo de referencia o para compartir con tu equipo/aula, sin tener que releer la fuente original cada vez.
+
 ## Tools
 
 En el directorio [`tools/`](tools/) se irán incorporando los scripts y herramientas necesarias para el desarrollo de los paquetes del DS. Consulta su [README](tools/README.md) para ver el contenido disponible.
